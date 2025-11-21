@@ -8,24 +8,24 @@ ________________________________________________________________________________
 
 💻 What I Do
 
-⚙️ Embedded software in C/C++
+⚙️Embedded software in C/C++
 
-🔧 Experience with microcontrollers: STM32, ESP32, NXP, Infineon, ARM Cortex-A8 (BeagleBone)
+• Experience with microcontrollers: STM32, ESP32, NXP, Infineon, ARM Cortex-A8 (BeagleBone)
 
-🚗 Automotive systems (AUTOSAR, ISO 26262, UDS, CAN, diagnostics)
+• Automotive systems (AUTOSAR, ISO 26262, UDS, CAN, diagnostics)
 
-🛠️ Device drivers, real-time control, hardware–software integration
+• Device drivers, real-time control, hardware–software integration
 
-🌐 IoT systems, communication protocols, connectivity
+• IoT systems, communication protocols, connectivity
 
-🧪 Debugging with oscilloscopes, logic analyzers, TRACE32, CANoe
+• Debugging with oscilloscopes, logic analyzers, TRACE32, CANoe
 
-🗂️ Building modular, testable, and maintainable embedded architectures
+• Building modular, testable, and maintainable embedded architectures
 
 I like solving important and complex tasks by breaking them down, starting simple, and building scalable solutions.
 ________________________________________________________________________________________________________________________
 
-🚴 Outside of Work
+Outside of Work
 
 🐶 Proud owner of a cheerful Cocker Spaniel
 
