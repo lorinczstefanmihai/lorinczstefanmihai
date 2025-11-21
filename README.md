@@ -31,8 +31,6 @@ ________________________________________________________________________________
 
 🚵 Cycling & mountain adventures
 
-🏔️ Traveling through nature
-
 🏋️ Sports addict — always moving, always exploring
 
 🔗 Always learning. Always creating. Always improving.
