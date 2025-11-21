@@ -1,6 +1,6 @@
 👋 Hi, I’m Stefan Lorincz
 
-I’m an Embedded & Mechatronics Engineer passionate about building reliable, efficient, and secure embedded systems. I enjoy turning complex problems into simple, structured solutions.
+I’m a Mechatronics Engineer passionate about building reliable, efficient, and secure embedded systems. I enjoy turning complex problems into simple, structured solutions.
 My personal motto:
 
 ✨ “Even a system with an LED can be simple or complex.”
