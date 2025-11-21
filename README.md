@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I’m Stefan Lorincz
 
-<!--
-**lorinczstefanmihai/lorinczstefanmihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Embedded & Mechatronics Engineer passionate about building reliable, efficient, and secure embedded systems. I enjoy turning complex problems into simple, structured solutions.
+My personal motto:
 
-Here are some ideas to get you started:
+✨ “Even a system with an LED can be simple or complex.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 What I Do
+
+⚙️ Embedded software development (C/C++, STM32, ESP32, RTOS)
+
+🚗 Automotive systems (AUTOSAR, ISO 26262, UDS, CAN, diagnostics)
+
+🔧 Device drivers, real-time control, hardware–software integration
+
+🌐 IoT systems, connectivity, and automation
+
+🧪 Debugging with oscilloscopes, TRACE32, CANoe, JTAG
+
+🛠️ Building modular, testable, maintainable embedded architectures
+
+I like solving important and complex tasks by breaking them down, starting simple, and building scalable solutions.
+
+🚴 Outside of Work
+
+🐶 Proud owner of a cheerful Cocker Spaniel
+
+🚵 Cycling & mountain adventures
+
+🏔️ Traveling through nature
+
+🏋️ Sports addict — always moving, always exploring
+
+🔗 Always learning. Always creating. Always improving.
