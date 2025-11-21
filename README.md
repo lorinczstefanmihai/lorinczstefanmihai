@@ -4,6 +4,7 @@ I’m a Mechatronics Engineer passionate about building reliable, efficient, and
 My personal motto:
 
 ✨ “Even a system with an LED can be simple or complex.”
+________________________________________________________________________________________________________________________
 
 What I Do
 
@@ -20,6 +21,8 @@ What I Do
 🛠️ Building modular, testable, maintainable embedded architectures
 
 I like solving important and complex tasks by breaking them down, starting simple, and building scalable solutions.
+
+________________________________________________________________________________________________________________________
 
  Outside of Work
 
