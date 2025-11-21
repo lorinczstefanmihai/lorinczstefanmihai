@@ -5,7 +5,7 @@ My personal motto:
 
 ✨ “Even a system with an LED can be simple or complex.”
 
-💻 What I Do
+What I Do
 
 ⚙️ Embedded software development (C/C++, STM32, ESP32, RTOS)
 
@@ -21,7 +21,7 @@ My personal motto:
 
 I like solving important and complex tasks by breaking them down, starting simple, and building scalable solutions.
 
-🚴 Outside of Work
+ Outside of Work
 
 🐶 Proud owner of a cheerful Cocker Spaniel
 
