@@ -6,9 +6,9 @@ My personal motto:
 ✨ “Even a system with an LED can be simple or complex.”
 ________________________________________________________________________________________________________________________
 
-💻 What I Do
+ What I Do 💻⚙️
 
-⚙️Embedded software in C/C++
+• Embedded software in C/C++
 
 • Experience with microcontrollers: STM32, ESP32, NXP, Infineon, ARM Cortex-A8 (BeagleBone)
 
