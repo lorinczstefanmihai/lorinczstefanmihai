@@ -47,4 +47,4 @@ ________________________________________________________________________________
 
 🔗 Always learning. Always creating. Always improving.
 
-![My Portfolio Image](office.png)
+![My Portfolio Image](office.jpg)
