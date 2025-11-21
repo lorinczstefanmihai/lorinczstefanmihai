@@ -23,19 +23,9 @@ ________________________________________________________________________________
 🗂️ Building modular, testable, and maintainable embedded architectures
 
 I like solving important and complex tasks by breaking them down, starting simple, and building scalable solutions.
+________________________________________________________________________________________________________________________
 
 🚴 Outside of Work
-
-🐶 Proud owner of a cheerful Cocker Spaniel
-
-🚵 Cycling & mountain adventures
-
-🏔️ Traveling through nature
-
-🏋️ Sports addict — always moving, always exploring
-_________________________________________________________________________________________________________
-
- Outside of Work
 
 🐶 Proud owner of a cheerful Cocker Spaniel
 
