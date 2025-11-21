@@ -6,23 +6,34 @@ My personal motto:
 ✨ “Even a system with an LED can be simple or complex.”
 ________________________________________________________________________________________________________________________
 
-What I Do
+💻 What I Do
 
-⚙️ Embedded software development (C/C++, STM32, ESP32, RTOS)
+⚙️ Embedded software in C/C++
+
+🔧 Experience with microcontrollers: STM32, ESP32, NXP, Infineon, ARM Cortex-A8 (BeagleBone)
 
 🚗 Automotive systems (AUTOSAR, ISO 26262, UDS, CAN, diagnostics)
 
-🔧 Device drivers, real-time control, hardware–software integration
+🛠️ Device drivers, real-time control, hardware–software integration
 
-🌐 IoT systems, connectivity, and automation
+🌐 IoT systems, communication protocols, connectivity
 
-🧪 Debugging with oscilloscopes, TRACE32, CANoe, JTAG
+🧪 Debugging with oscilloscopes, logic analyzers, TRACE32, CANoe
 
-🛠️ Building modular, testable, maintainable embedded architectures
+🗂️ Building modular, testable, and maintainable embedded architectures
 
 I like solving important and complex tasks by breaking them down, starting simple, and building scalable solutions.
 
-________________________________________________________________________________________________________________________
+🚴 Outside of Work
+
+🐶 Proud owner of a cheerful Cocker Spaniel
+
+🚵 Cycling & mountain adventures
+
+🏔️ Traveling through nature
+
+🏋️ Sports addict — always moving, always exploring
+_________________________________________________________________________________________________________
 
  Outside of Work
 
