@@ -46,3 +46,5 @@ ________________________________________________________________________________
 🏋️ Sports addict — always moving, always exploring
 
 🔗 Always learning. Always creating. Always improving.
+
+![My Portfolio Image](office.png)
